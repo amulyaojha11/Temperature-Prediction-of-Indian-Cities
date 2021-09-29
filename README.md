@@ -21,6 +21,9 @@ This dataset contains daily temperature of four cities over 1995-2019. We modify
 - [ ] Test the model
 - [ ] Make predictions
 
+![image](https://user-images.githubusercontent.com/72320197/135301275-a6006090-604c-4ae9-918d-4199cd76ed8b.png)
+
+
 ## Model Used
 We've used ARIMA-AutoRegressive Integrated Moving Average model.
 It is a forecasting algorithm based on the idea that the information in the past values of the time series can alone be used to predict the future values.
@@ -31,4 +34,12 @@ It is characterised by three terms: p,q,d where, p is the order of AR term, q is
 
 ![image](https://user-images.githubusercontent.com/72320197/135296708-e030d006-65a6-443d-81df-3a579c85ec32.png)
 
+## Output
+We aim to predict the temperature of the four cities for the next twelve months accurately.
+
 ## References
+[Delhi Temperature Prediction using Time Series Analysis](https://github.com/KlrShaK/Delhi-Temperature-Prediction-Time-Series-data)
+
+[Time Series Analysis](https://github.com/ParthPathak27/Time-Series-Analysis-and-Forecasting)
+
+[Time Series Analysis with ARIMA](https://github.com/gmonaci/ARIMA)
