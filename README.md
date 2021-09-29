@@ -10,6 +10,7 @@ Since, global warming has such major effects we try to understand the past effec
 
 ## Dataset
 In this project, the Dataset used is the famous Kaggle [Dataset.](https://www.kaggle.com/riturajsaha/temperature-of-different-cities-of-india)
+
 This dataset contains daily temperature of four cities over 1995-2019. We modify the data to monthly average temperature over 2009-2019 using MS Excel.
 
 ## Pipeline of the Project
