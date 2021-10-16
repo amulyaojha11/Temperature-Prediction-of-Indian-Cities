@@ -1,0 +1,4 @@
+Here we visualize data using pivot table, that allows us to reorganize and summarize specific columns, with month as rows, years as column and temperature as the data.
+We plot the temperature vs month graph for different years which shows us the trend over the past 10 years.
+We take the mean of temperatues over vertical axis and try to recognize any kind of seasonality in the data.
+we plot this graph and get the seasonality trend over the years.
