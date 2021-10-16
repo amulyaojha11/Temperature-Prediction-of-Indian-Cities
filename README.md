@@ -14,7 +14,7 @@ In this project, the Dataset used is the famous Kaggle [Dataset.](https://www.ka
 This dataset contains daily temperature of four cities over 1995-2019. We modify the data to monthly average temperature over 2009-2019 using MS Excel.
 
 ## Pipeline of the Project
-- [ ] Visualisation of data
+- [X] Visualisation of data
 - [ ] Data Preprocessing
 - [ ] Establish the appropriate model
 - [ ] Identify the optimal order
