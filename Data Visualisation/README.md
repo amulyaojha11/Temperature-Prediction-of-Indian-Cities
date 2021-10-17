@@ -1,7 +1,8 @@
 ## Introduction
-In this section, we try to visualize our dataset using pyhton libraries: pandas and matplotlib.
+In this section, we try to visualize our dataset using python libraries: pandas and matplotlib.
 We create pivot tables and plot them for better visualisation.
-We determine if there's any seasonality in our data. Seasonality refers to the repeating patterns or cycles of behavior over time.
+We determine if there's any seasonality in our data. 
+Seasonality refers to the repeating patterns or cycles of behavior over time.
 
 ## How to visualize the Data?
 - Start with reading the data.
