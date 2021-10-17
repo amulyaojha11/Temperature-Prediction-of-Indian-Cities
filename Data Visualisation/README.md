@@ -1,4 +1,4 @@
-**## Introduction**
+**Introduction**
 In this section, we try to visualize our dataset using python libraries: pandas and matplotlib.
 We create pivot tables and plot them for better visualisation.
 We determine if there's any seasonality in our data. 
