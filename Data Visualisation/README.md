@@ -1,8 +1,8 @@
 ## Introduction
 In this section, we try to visualize our dataset using python libraries: pandas and matplotlib.
-We create pivot tables and plot them for better visualisation.
+We create pivot tables and plot them for better visualisations.
 We determine if there's any seasonality in our data. 
-Seasonality refers to the repeating patterns or cycles of behavior over time.
+Seasonality refer's to the repeating patterns or cycles of behavior over time.
 
 ## How to visualize the Data?
 - Start with reading the data.
@@ -14,7 +14,7 @@ Seasonality refers to the repeating patterns or cycles of behavior over time.
 - Take mean across the vertical axis using `mean()` function and assign value to axis paramater as 1 for vertical axis. Plot the seasonality trend.
 
 ## Why Pivot table?
-Pivot table allows us to reorganize and summarize selected columns of our choice.
+Pivot table allow's us to reorganize and summarize selected columns of our choice.
 If we direcly plot the data present in csv file, we'll get a simple line graph of temperature over years.
 Plotting the pivot allows us to recognize the monthly trend over years and compare monthly temperature over years in a single graph.
-Also, taking the mean over vertical axis gives us the seasonality trend.
+Also, taking the mean over vertical axis give's us the seasonality trend.
