@@ -18,5 +18,3 @@ Pivot table allow's us to reorganize and summarize selected columns of our choic
 If we direcly plot the data present in csv file, we'll get a simple line graph of temperature over years.
 Plotting the pivot allows us to recognize the monthly trend over years and compare monthly temperature over years in a single graph.
 Also, taking the mean over vertical axis give's us the seasonality trend.
-
-## Cheatsheets
