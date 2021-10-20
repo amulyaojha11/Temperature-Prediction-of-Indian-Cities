@@ -38,6 +38,9 @@ It is characterised by three terms: p,q,d where, p is the order of AR term, q is
 ## Output
 We aim to predict the temperature of the four cities for the next twelve months accurately.
 
+## Cheatsheets
+
+
 ## References
 [Delhi Temperature Prediction using Time Series Analysis](https://github.com/KlrShaK/Delhi-Temperature-Prediction-Time-Series-data)
 
