@@ -50,9 +50,3 @@ We aim to predict the temperature of the four cities for the next twelve months 
 [Time Series Analysis](https://github.com/ParthPathak27/Time-Series-Analysis-and-Forecasting)
 
 [Time Series Analysis with ARIMA](https://github.com/gmonaci/ARIMA)
-
-## 📝Contributors
-
-- Aishwarya RA19110026010102
-- Amulya RA19110026010114
-- Manasa RA19110026010077
