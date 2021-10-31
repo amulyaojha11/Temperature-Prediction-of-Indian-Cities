@@ -15,7 +15,7 @@ This dataset contains daily temperature of four cities over 1995-2019. We modify
 
 ## 🗂️Pipeline of the Project
 - [X] Visualisation of data
-- [ ] Data Preprocessing
+- [X] Data Preprocessing
 - [ ] Establish the appropriate model
 - [ ] Identify the optimal order
 - [ ] Train the model
