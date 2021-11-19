@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/88399910/142641993-a5ef6237-0fbe-449b-9c6d-cf69f47618fe.PNG)
 # 🌦️Temperature-Prediction-of-Indian-Cities.
 Temperature Prediction using Time Series Analysis algorithm; predicting monthly average temperature using ARIMA model.
 
