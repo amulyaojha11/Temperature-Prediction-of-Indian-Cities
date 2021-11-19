@@ -66,6 +66,6 @@ We aim to predict the temperature of the four cities for the next twelve months 
 [Time Series Analysis with ARIMA](https://github.com/gmonaci/ARIMA)
 
 ## 🤝Contributors
-RA1911026010077 - Rongala Manasa
-RA1911026010102 - Aishwarya Jayaraman
-RA1911026010114 - Amulya Ojha
+- RA1911026010077 - Rongala Manasa
+- RA1911026010102 - Aishwarya Jayaraman
+- RA1911026010114 - Amulya Ojha
