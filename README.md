@@ -13,18 +13,30 @@ Since, global warming has such major effects we try to understand the past effec
 In this project, the Dataset used is the famous Kaggle [Dataset.](https://www.kaggle.com/riturajsaha/temperature-of-different-cities-of-india)
 
 This dataset contains daily temperature of four cities over 1995-2019. We modify the data to monthly average temperature over 2009-2019 using MS Excel.
+
 ## 📉Graphs
+### Chennai
+<img src="https://user-images.githubusercontent.com/72320197/142647144-e2b3ec79-782f-466d-ae4f-fd2451356e2c.png" width=50% height=50%> 
+
+### Delhi
+<img src="https://user-images.githubusercontent.com/72320197/142647170-4f7fadea-f88a-4048-b26e-af588c3892d3.png" width=50% height=50%>
+
+### Mumbai
+<img src="https://user-images.githubusercontent.com/72320197/142647195-11ca81e0-2cd2-49de-b0a6-a7c2638a1697.png" width=50% height=50%>
+
+### Kolkata
+<img src="https://user-images.githubusercontent.com/72320197/142647227-b3d8efc5-c4f1-4d3c-b0da-761f7754add7.png" width=50% height=50%>
 
 ## 🗂️Pipeline of the Project
 - [X] Visualisation of data
 - [X] Data Preprocessing
-- [ ] Establish the appropriate model
-- [ ] Identify the optimal order
-- [ ] Train the model
-- [ ] Test the model
-- [ ] Make predictions
+- [X] Establish the appropriate model
+- [X] Identify the optimal order
+- [X] Train the model
+- [X] Test the model
+- [X] Make predictions
 
-![image](https://user-images.githubusercontent.com/72320197/135301275-a6006090-604c-4ae9-918d-4199cd76ed8b.png)
+![vo vali image](https://user-images.githubusercontent.com/72320197/142648678-d793e07a-a1e8-4f37-a5e5-254aa53b280c.jpeg)
 
 
 ## 💥Model Used
